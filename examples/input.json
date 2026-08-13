@@ -1,0 +1,12 @@
+{
+    "postUrls": [
+        "https://www.linkedin.com/posts/USERNAME_slug-activity-1234567890-abcd"
+    ],
+    "includeComments": true,
+    "includeReactions": true,
+    "titleIncludeKeywords": ["founder", "marketing", "growth"],
+    "titleExcludeKeywords": ["student", "intern"],
+    "suppressionList": [],
+    "maxEngagersPerPost": 1000,
+    "maxLeadsTotal": 500
+}
